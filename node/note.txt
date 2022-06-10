@@ -1,0 +1,5 @@
+Limitations:
+There is no feature here to solve concurrency, 
+this can be solved using a shared cache or a distributed cache that would have a concensus mechanism to select the trade that will be executed
+
+There is no advance error handling or recovery mechanism
